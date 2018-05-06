@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91ec6aa3-33b1-4927-ac75-881f6a2a2e47" name="Default" comment="" />
+    <list default="true" id="91ec6aa3-33b1-4927-ac75-881f6a2a2e47" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -23,7 +25,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="776. Split BST.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="776. Split BST.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BinarySearchTree/776. Split BST.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="585">
@@ -35,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InorderSuccesorinBST.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BinarySearchTree/1. Introduction/InorderSuccesorinBST.js">
+      <file leaf-file-name="Binary Tree Postorder Traversal.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BinaryTree/Traverse a Tree/Binary Tree Postorder Traversal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            <state relative-caret-position="345">
+              <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -47,11 +49,59 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="530. Minimum Absolute Difference in BST.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BinarySearchTree/530. Minimum Absolute Difference in BST.js">
+      <file leaf-file-name="Binary Tree Level Order Traversal.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BinaryTree/Traverse a Tree/Binary Tree Level Order Traversal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+            <state relative-caret-position="450">
+              <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Maximum Depth of Binary Tree.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BinaryTree/Solve Problems Recursively/Maximum Depth of Binary Tree.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="40" column="3" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Symmetric Tree.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BinaryTree/Solve Problems Recursively/Symmetric Tree.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Path Sum.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BinaryTree/Solve Problems Recursively/Path Sum.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Count Univalue Subtrees.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BinaryTree/Solve Problems Recursively/Count Univalue Subtrees.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -108,6 +158,14 @@
         <option value="$PROJECT_DIR$/BinarySearchTree/3. Conclusion/KthLargestElement.js" />
         <option value="$PROJECT_DIR$/BinarySearchTree/530. Minimum Absolute Difference in BST.js" />
         <option value="$PROJECT_DIR$/BinarySearchTree/776. Split BST.js" />
+        <option value="$PROJECT_DIR$/BinaryTree/Traverse a Tree/Binary Tree Preorder Traversal.js" />
+        <option value="$PROJECT_DIR$/BinaryTree/Traverse a Tree/Binary Tree Inorder Traversal.js" />
+        <option value="$PROJECT_DIR$/BinaryTree/Traverse a Tree/Binary Tree Postorder Traversal.js" />
+        <option value="$PROJECT_DIR$/BinaryTree/Traverse a Tree/Binary Tree Level Order Traversal.js" />
+        <option value="$PROJECT_DIR$/BinaryTree/Solve Problems Recursively/Maximum Depth of Binary Tree.js" />
+        <option value="$PROJECT_DIR$/BinaryTree/Solve Problems Recursively/Symmetric Tree.js" />
+        <option value="$PROJECT_DIR$/BinaryTree/Solve Problems Recursively/Path Sum.js" />
+        <option value="$PROJECT_DIR$/BinaryTree/Solve Problems Recursively/Count Univalue Subtrees.js" />
       </list>
     </option>
   </component>
@@ -139,7 +197,13 @@
             <path>
               <item name="Javascript-Leetcode-Practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="Javascript-Leetcode-Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="BinarySearchTree" type="462c0819:PsiDirectoryNode" />
+              <item name="BinaryTree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Javascript-Leetcode-Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javascript-Leetcode-Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="BinaryTree" type="462c0819:PsiDirectoryNode" />
+              <item name="Solve Problems Recursively" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -185,12 +249,12 @@
       <updated>1525447463990</updated>
       <workItem from="1525447466934" duration="348000" />
       <workItem from="1525448393330" duration="860000" />
-      <workItem from="1525558421712" duration="917000" />
+      <workItem from="1525558421712" duration="1307000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2125000" />
+    <option name="totallyTimeSpent" value="2515000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -331,10 +395,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTree/Traverse a Tree/Binary Tree Preorder Traversal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTree/Traverse a Tree/Binary Tree Inorder Traversal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BinarySearchTree/776. Split BST.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="39" column="2" selection-start-line="39" selection-start-column="2" selection-end-line="39" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTree/Traverse a Tree/Binary Tree Postorder Traversal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTree/Traverse a Tree/Binary Tree Level Order Traversal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTree/Solve Problems Recursively/Maximum Depth of Binary Tree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="3" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTree/Solve Problems Recursively/Symmetric Tree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTree/Solve Problems Recursively/Path Sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTree/Solve Problems Recursively/Count Univalue Subtrees.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

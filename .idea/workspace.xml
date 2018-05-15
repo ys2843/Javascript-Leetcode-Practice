@@ -129,17 +129,6 @@
               <item name="Javascript-Leetcode-Practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="Javascript-Leetcode-Practice" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Javascript-Leetcode-Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Javascript-Leetcode-Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="BinaryTree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Javascript-Leetcode-Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Javascript-Leetcode-Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="BinaryTree" type="462c0819:PsiDirectoryNode" />
-              <item name="Conclusion" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -185,16 +174,15 @@
       <workItem from="1525448393330" duration="860000" />
       <workItem from="1525558421712" duration="2794000" />
       <workItem from="1525792507550" duration="70000" />
-      <workItem from="1526050970296" duration="688000" />
+      <workItem from="1526050970296" duration="920000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4760000" />
+    <option name="totallyTimeSpent" value="4992000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />

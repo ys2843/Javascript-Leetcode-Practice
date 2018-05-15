@@ -47,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Serialize and Deserialize Binary Tree.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Serialize and Deserialize Binary Tree.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BinaryTree/Conclusion/Serialize and Deserialize Binary Tree.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="699">
@@ -55,6 +55,15 @@
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Binary Search.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Binary Search/Background/Binary Search.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -98,6 +107,7 @@
         <option value="$PROJECT_DIR$/BinaryTree/Conclusion/Populating Next Right Pointers in Each Node II.js" />
         <option value="$PROJECT_DIR$/BinaryTree/Conclusion/Lowest Common Ancestor of a Binary Tree.js" />
         <option value="$PROJECT_DIR$/BinaryTree/Conclusion/Serialize and Deserialize Binary Tree.js" />
+        <option value="$PROJECT_DIR$/Binary Search/Background/Binary Search.js" />
       </list>
     </option>
   </component>
@@ -128,6 +138,11 @@
             <path>
               <item name="Javascript-Leetcode-Practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="Javascript-Leetcode-Practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Javascript-Leetcode-Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javascript-Leetcode-Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Binary Search" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -174,15 +189,16 @@
       <workItem from="1525448393330" duration="860000" />
       <workItem from="1525558421712" duration="2794000" />
       <workItem from="1525792507550" duration="70000" />
-      <workItem from="1526050970296" duration="920000" />
+      <workItem from="1526050970296" duration="1055000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4992000" />
+    <option name="totallyTimeSpent" value="5127000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -426,6 +442,13 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Binary Search/Background/Binary Search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
         </state>
       </provider>
     </entry>

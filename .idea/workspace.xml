@@ -26,11 +26,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Find Peak Element.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Find Peak Element.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Binary Search/Background/Find Peak Element.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
               <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Find Minimum in Rotated Sorted Array.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Binary Search/Background/Find Minimum in Rotated Sorted Array.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -79,6 +88,7 @@
         <option value="$PROJECT_DIR$/Binary Search/Background/Search in Rotated Sorted Array.js" />
         <option value="$PROJECT_DIR$/Binary Search/Background/First Bad Version.js" />
         <option value="$PROJECT_DIR$/Binary Search/Background/Find Peak Element.js" />
+        <option value="$PROJECT_DIR$/Binary Search/Background/Find Minimum in Rotated Sorted Array.js" />
       </list>
     </option>
   </component>
@@ -92,7 +102,6 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="340" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
@@ -166,12 +175,12 @@
       <workItem from="1525448393330" duration="860000" />
       <workItem from="1525558421712" duration="2794000" />
       <workItem from="1525792507550" duration="70000" />
-      <workItem from="1526050970296" duration="1789000" />
+      <workItem from="1526050970296" duration="2349000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5861000" />
+    <option name="totallyTimeSpent" value="6421000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -457,6 +466,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Binary Search/Background/Find Minimum in Rotated Sorted Array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
         </state>
       </provider>
     </entry>

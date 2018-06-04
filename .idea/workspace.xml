@@ -59,11 +59,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="728. Self Dividing Numbers.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="728. Self Dividing Numbers.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EasyLevel/728. Self Dividing Numbers.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="561. Array Partition I.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/561. Array Partition I.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="811. Subdomain Visit Count.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/811. Subdomain Visit Count.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="821. Shortest Distance to a Character.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/821. Shortest Distance to a Character.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -130,6 +157,9 @@
         <option value="$PROJECT_DIR$/EasyLevel/832. Flipping an Image.js" />
         <option value="$PROJECT_DIR$/EasyLevel/657. Judge Route Circle.js" />
         <option value="$PROJECT_DIR$/EasyLevel/728. Self Dividing Numbers.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/561. Array Partition I.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/811. Subdomain Visit Count.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/821. Shortest Distance to a Character.js" />
       </list>
     </option>
   </component>
@@ -223,12 +253,12 @@
       <workItem from="1525792507550" duration="70000" />
       <workItem from="1526050970296" duration="2456000" />
       <workItem from="1526849859915" duration="1216000" />
-      <workItem from="1527808079883" duration="3640000" />
+      <workItem from="1527808079883" duration="4070000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11384000" />
+    <option name="totallyTimeSpent" value="11814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -260,27 +290,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BinarySearchTree/3. Conclusion/KthLargestElement.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinarySearchTree/1. Introduction/InorderSuccesorinBST.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinarySearchTree/2. BasicOperation/InsertInBST.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="16" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BinarySearchTree/2. BasicOperation/DeletionInBST.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -620,6 +629,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/561. Array Partition I.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/811. Subdomain Visit Count.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/821. Shortest Distance to a Character.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
         </state>
       </provider>
     </entry>

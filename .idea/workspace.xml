@@ -14,41 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="566. Reshape the Matrix.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EasyLevel/566. Reshape the Matrix.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="293. Flip Game.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EasyLevel/293. Flip Game.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="637. Average of Levels in Binary Tree.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EasyLevel/637. Average of Levels in Binary Tree.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="824. Goat Latin.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EasyLevel/824. Goat Latin.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="292. Nim Game.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EasyLevel/292. Nim Game.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,11 +65,50 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="66. Plus One.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="66. Plus One.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EasyLevel/66. Plus One.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+            <state relative-caret-position="180">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="257. Binary Tree Paths.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/257. Binary Tree Paths.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="389. Find the Difference.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/389. Find the Difference.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="155. Min Stack.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/155. Min Stack.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="699">
+              <caret line="54" column="3" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="191. Number of 1 Bits.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/191. Number of 1 Bits.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -124,10 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BinaryTree/Conclusion/Populating Next Right Pointers in Each Node.js" />
-        <option value="$PROJECT_DIR$/BinaryTree/Conclusion/Populating Next Right Pointers in Each Node II.js" />
-        <option value="$PROJECT_DIR$/BinaryTree/Conclusion/Lowest Common Ancestor of a Binary Tree.js" />
-        <option value="$PROJECT_DIR$/BinaryTree/Conclusion/Serialize and Deserialize Binary Tree.js" />
         <option value="$PROJECT_DIR$/Binary Search/Background/Binary Search.js" />
         <option value="$PROJECT_DIR$/Binary Search/Background/Sqrt(x).js" />
         <option value="$PROJECT_DIR$/Binary Search/Background/Search in Rotated Sorted Array.js" />
@@ -175,6 +175,10 @@
         <option value="$PROJECT_DIR$/EasyLevel/20. Valid Parentheses.js" />
         <option value="$PROJECT_DIR$/EasyLevel/237. Delete Node in a Linked List.js" />
         <option value="$PROJECT_DIR$/EasyLevel/66. Plus One.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/257. Binary Tree Paths.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/389. Find the Difference.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/155. Min Stack.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/191. Number of 1 Bits.js" />
       </list>
     </option>
   </component>
@@ -268,12 +272,12 @@
       <workItem from="1525792507550" duration="70000" />
       <workItem from="1526050970296" duration="2456000" />
       <workItem from="1526849859915" duration="1216000" />
-      <workItem from="1527808079883" duration="7417000" />
+      <workItem from="1527808079883" duration="7956000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15161000" />
+    <option name="totallyTimeSpent" value="15700000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -305,34 +309,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Binary Search/Background/Sqrt(x).js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Binary Search/Background/Binary Search.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree/Conclusion/Serialize and Deserialize Binary Tree.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="699">
-          <caret line="68" column="3" selection-start-line="68" selection-start-column="3" selection-end-line="68" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree/Conclusion/Lowest Common Ancestor of a Binary Tree.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BinaryTree/Conclusion/Populating Next Right Pointers in Each Node II.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -671,8 +647,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/EasyLevel/66. Plus One.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/257. Binary Tree Paths.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/389. Find the Difference.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/155. Min Stack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="699">
+          <caret line="54" column="3" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/191. Number of 1 Bits.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
         </state>
       </provider>
     </entry>

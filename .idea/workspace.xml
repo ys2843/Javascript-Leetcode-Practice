@@ -14,33 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="243. Shortest Word Distance.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EasyLevel/243. Shortest Word Distance.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="387. First Unique Character in a String.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EasyLevel/387. First Unique Character in a String.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="231. Power of Two.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EasyLevel/231. Power of Two.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="10" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="345. Reverse Vowels of a String.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EasyLevel/345. Reverse Vowels of a String.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -77,11 +50,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="28. Implement strStr().js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="28. Implement strStr().js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EasyLevel/28. Implement strStr().js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="485. Max Consecutive Ones.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/485. Max Consecutive Ones.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="695. Max Area of Island.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/695. Max Area of Island.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="37" column="2" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="717. 1-bit and 2-bit Characters.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/717. 1-bit and 2-bit Characters.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -119,9 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/EasyLevel/728. Self Dividing Numbers.js" />
-        <option value="$PROJECT_DIR$/EasyLevel/561. Array Partition I.js" />
-        <option value="$PROJECT_DIR$/EasyLevel/811. Subdomain Visit Count.js" />
         <option value="$PROJECT_DIR$/EasyLevel/821. Shortest Distance to a Character.js" />
         <option value="$PROJECT_DIR$/EasyLevel/359. Logger Rate Limiter.js" />
         <option value="$PROJECT_DIR$/EasyLevel/346. Moving Average from Data Stream.js" />
@@ -170,6 +167,9 @@
         <option value="$PROJECT_DIR$/EasyLevel/746. Min Cost Climbing Stairs.js" />
         <option value="$PROJECT_DIR$/EasyLevel/204. Count Primes.js" />
         <option value="$PROJECT_DIR$/EasyLevel/28. Implement strStr().js" />
+        <option value="$PROJECT_DIR$/EasyLevel/485. Max Consecutive Ones.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/695. Max Area of Island.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/717. 1-bit and 2-bit Characters.js" />
       </list>
     </option>
   </component>
@@ -266,12 +266,12 @@
       <workItem from="1527808079883" duration="8939000" />
       <workItem from="1528727877997" duration="3000" />
       <workItem from="1528820464759" duration="668000" />
-      <workItem from="1529507458137" duration="2131000" />
+      <workItem from="1529507458137" duration="2550000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19485000" />
+    <option name="totallyTimeSpent" value="19904000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -303,27 +303,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/EasyLevel/657. Judge Route Circle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EasyLevel/728. Self Dividing Numbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EasyLevel/561. Array Partition I.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/EasyLevel/811. Subdomain Visit Count.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -669,6 +648,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/485. Max Consecutive Ones.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/695. Max Area of Island.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="2" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/717. 1-bit and 2-bit Characters.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
         </state>
       </provider>
     </entry>

@@ -92,7 +92,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="687. Longest Univalue Path.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="687. Longest Univalue Path.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EasyLevel/687. Longest Univalue Path.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -104,11 +104,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="204. Count Primes.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EasyLevel/204. Count Primes.js">
+      <file leaf-file-name="107. Binary Tree Level Order Traversal II.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/107. Binary Tree Level Order Traversal II.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+            <state relative-caret-position="510">
+              <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -128,7 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/EasyLevel/500. Keyboard Row.js" />
         <option value="$PROJECT_DIR$/EasyLevel/682. Baseball Game.js" />
         <option value="$PROJECT_DIR$/EasyLevel/806. Number of Lines To Write String.js" />
         <option value="$PROJECT_DIR$/EasyLevel/266. Palindrome Permutation.js" />
@@ -179,6 +181,7 @@
         <option value="$PROJECT_DIR$/EasyLevel/83. Remove Duplicates from Sorted List.js" />
         <option value="$PROJECT_DIR$/EasyLevel/203. Remove Linked List Elements.js" />
         <option value="$PROJECT_DIR$/EasyLevel/687. Longest Univalue Path.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/107. Binary Tree Level Order Traversal II.js" />
       </list>
     </option>
   </component>
@@ -275,12 +278,12 @@
       <workItem from="1527808079883" duration="8939000" />
       <workItem from="1528727877997" duration="3000" />
       <workItem from="1528820464759" duration="668000" />
-      <workItem from="1529507458137" duration="3104000" />
+      <workItem from="1529507458137" duration="3263000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20458000" />
+    <option name="totallyTimeSpent" value="20617000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -312,13 +315,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/EasyLevel/557. Reverse Words in a String III.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/EasyLevel/500. Keyboard Row.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -684,6 +680,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/107. Binary Tree Level Order Traversal II.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

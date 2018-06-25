@@ -14,27 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="762. Prime Number of Set Bits in Binary Representation.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EasyLevel/762. Prime Number of Set Bits in Binary Representation.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="83. Remove Duplicates from Sorted List.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EasyLevel/83. Remove Duplicates from Sorted List.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="203. Remove Linked List Elements.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EasyLevel/203. Remove Linked List Elements.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -116,7 +95,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="108. Convert Sorted Array to Binary Search Tree.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="108. Convert Sorted Array to Binary Search Tree.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EasyLevel/108. Convert Sorted Array to Binary Search Tree.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
@@ -124,6 +103,24 @@
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="232. Implement Queue using Stacks.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/232. Implement Queue using Stacks.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="699">
+              <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="225. Implement Stack using Queues.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/225. Implement Stack using Queues.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="699">
+              <caret line="49" column="3" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -143,8 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/EasyLevel/669. Trim a Binary Search Tree.js" />
-        <option value="$PROJECT_DIR$/EasyLevel/766. Toeplitz Matrix.js" />
         <option value="$PROJECT_DIR$/EasyLevel/566. Reshape the Matrix.js" />
         <option value="$PROJECT_DIR$/EasyLevel/293. Flip Game.js" />
         <option value="$PROJECT_DIR$/EasyLevel/637. Average of Levels in Binary Tree.js" />
@@ -194,6 +189,8 @@
         <option value="$PROJECT_DIR$/EasyLevel/733. Flood Fill.js" />
         <option value="$PROJECT_DIR$/EasyLevel/110. Balanced Binary Tree.js" />
         <option value="$PROJECT_DIR$/EasyLevel/108. Convert Sorted Array to Binary Search Tree.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/232. Implement Queue using Stacks.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/225. Implement Stack using Queues.js" />
       </list>
     </option>
   </component>
@@ -289,12 +286,12 @@
       <workItem from="1527808079883" duration="8939000" />
       <workItem from="1528727877997" duration="3000" />
       <workItem from="1528820464759" duration="668000" />
-      <workItem from="1529507458137" duration="4350000" />
+      <workItem from="1529507458137" duration="4580000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21704000" />
+    <option name="totallyTimeSpent" value="21934000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -326,20 +323,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/EasyLevel/575. Distribute Candies.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EasyLevel/669. Trim a Binary Search Tree.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/EasyLevel/766. Toeplitz Matrix.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -716,6 +699,20 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/232. Implement Queue using Stacks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="699">
+          <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/225. Implement Stack using Queues.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="699">
+          <caret line="49" column="3" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
         </state>
       </provider>
     </entry>

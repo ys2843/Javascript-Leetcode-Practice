@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91ec6aa3-33b1-4927-ac75-881f6a2a2e47" name="Default" comment="" />
+    <list default="true" id="91ec6aa3-33b1-4927-ac75-881f6a2a2e47" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyLevel/657. Judge Route Circle.js" beforeDir="false" afterPath="$PROJECT_DIR$/EasyLevel/657. Judge Route Circle.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,64 +17,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="100. Same Tree.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EasyLevel/100. Same Tree.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="733. Flood Fill.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EasyLevel/733. Flood Fill.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="110. Balanced Binary Tree.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EasyLevel/110. Balanced Binary Tree.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="108. Convert Sorted Array to Binary Search Tree.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EasyLevel/108. Convert Sorted Array to Binary Search Tree.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="232. Implement Queue using Stacks.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EasyLevel/232. Implement Queue using Stacks.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="225. Implement Stack using Queues.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EasyLevel/225. Implement Stack using Queues.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="654">
+            <state relative-caret-position="735">
               <caret line="49" column="3" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
             </state>
           </provider>
@@ -89,7 +38,7 @@
       <file leaf-file-name="653. Two Sum IV - Input is a BST.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EasyLevel/653. Two Sum IV - Input is a BST.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
+            <state relative-caret-position="255">
               <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -107,11 +56,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="520. Detect Capital.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="520. Detect Capital.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EasyLevel/520. Detect Capital.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="657. Judge Route Circle.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/657. Judge Route Circle.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="819. Most Common Word.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/819. Most Common Word.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="383. Ransom Note.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/383. Ransom Note.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="551. Student Attendance Record I.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/551. Student Attendance Record I.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="521. Longest Uncommon Subsequence I.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/521. Longest Uncommon Subsequence I.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -131,11 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/EasyLevel/292. Nim Game.js" />
-        <option value="$PROJECT_DIR$/EasyLevel/7. Reverse Integer.js" />
-        <option value="$PROJECT_DIR$/EasyLevel/21. Merge Two Sorted Lists.js" />
-        <option value="$PROJECT_DIR$/EasyLevel/20. Valid Parentheses.js" />
-        <option value="$PROJECT_DIR$/EasyLevel/237. Delete Node in a Linked List.js" />
         <option value="$PROJECT_DIR$/EasyLevel/66. Plus One.js" />
         <option value="$PROJECT_DIR$/EasyLevel/257. Binary Tree Paths.js" />
         <option value="$PROJECT_DIR$/EasyLevel/389. Find the Difference.js" />
@@ -182,6 +171,11 @@
         <option value="$PROJECT_DIR$/EasyLevel/653. Two Sum IV - Input is a BST.js" />
         <option value="$PROJECT_DIR$/EasyLevel/606. Construct String from Binary Tree.js" />
         <option value="$PROJECT_DIR$/EasyLevel/520. Detect Capital.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/657. Judge Route Circle.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/819. Most Common Word.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/383. Ransom Note.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/551. Student Attendance Record I.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/521. Longest Uncommon Subsequence I.js" />
       </list>
     </option>
   </component>
@@ -278,12 +272,13 @@
       <workItem from="1528727877997" duration="3000" />
       <workItem from="1528820464759" duration="668000" />
       <workItem from="1529507458137" duration="4832000" />
-      <workItem from="1530067935883" duration="660000" />
+      <workItem from="1530067935883" duration="807000" />
+      <workItem from="1530372207184" duration="1167000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22846000" />
+    <option name="totallyTimeSpent" value="24160000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -315,41 +310,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/EasyLevel/292. Nim Game.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EasyLevel/66. Plus One.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EasyLevel/257. Binary Tree Paths.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EasyLevel/237. Delete Node in a Linked List.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EasyLevel/20. Valid Parentheses.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/EasyLevel/21. Merge Two Sorted Lists.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -578,9 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -588,9 +545,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -598,9 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -608,19 +559,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/EasyLevel/100. Same Tree.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="240">
           <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -660,7 +605,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/EasyLevel/225. Implement Stack using Queues.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="654">
+        <state relative-caret-position="735">
           <caret line="49" column="3" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
         </state>
       </provider>
@@ -674,7 +619,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/EasyLevel/653. Two Sum IV - Input is a BST.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
+        <state relative-caret-position="255">
           <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -693,6 +638,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/657. Judge Route Circle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/819. Most Common Word.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/383. Ransom Note.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/551. Student Attendance Record I.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/521. Longest Uncommon Subsequence I.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>

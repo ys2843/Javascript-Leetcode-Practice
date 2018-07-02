@@ -23,11 +23,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="800. Similar RGB Color.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="800. Similar RGB Color.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EasyLevel/800. Similar RGB Color.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
               <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="459. Repeated Substring Pattern.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/459. Repeated Substring Pattern.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -47,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/EasyLevel/155. Min Stack.js" />
         <option value="$PROJECT_DIR$/EasyLevel/191. Number of 1 Bits.js" />
         <option value="$PROJECT_DIR$/EasyLevel/141. Linked List Cycle.js" />
         <option value="$PROJECT_DIR$/EasyLevel/70. Climbing Stairs.js" />
@@ -98,6 +106,7 @@
         <option value="$PROJECT_DIR$/EasyLevel/696. Count Binary Substrings.js" />
         <option value="$PROJECT_DIR$/EasyLevel/758. Bold Words in String.js" />
         <option value="$PROJECT_DIR$/EasyLevel/800. Similar RGB Color.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/459. Repeated Substring Pattern.js" />
       </list>
     </option>
   </component>
@@ -195,12 +204,12 @@
       <workItem from="1528820464759" duration="668000" />
       <workItem from="1529507458137" duration="4832000" />
       <workItem from="1530067935883" duration="807000" />
-      <workItem from="1530372207184" duration="1824000" />
+      <workItem from="1530372207184" duration="2027000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24817000" />
+    <option name="totallyTimeSpent" value="25020000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -232,13 +241,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/EasyLevel/155. Min Stack.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="699">
-          <caret line="54" column="3" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/EasyLevel/191. Number of 1 Bits.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -595,6 +597,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/459. Repeated Substring Pattern.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
         </state>
       </provider>
     </entry>

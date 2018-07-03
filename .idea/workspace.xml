@@ -14,24 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="758. Bold Words in String.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EasyLevel/758. Bold Words in String.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="33" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="800. Similar RGB Color.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EasyLevel/800. Similar RGB Color.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="459. Repeated Substring Pattern.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EasyLevel/459. Repeated Substring Pattern.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -68,11 +50,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="443. String Compression.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="443. String Compression.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EasyLevel/443. String Compression.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="125. Valid Palindrome.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/125. Valid Palindrome.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="819. Most Common Word.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/819. Most Common Word.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="408. Valid Word Abbreviation.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/408. Valid Word Abbreviation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="859. Buddy Strings.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/859. Buddy Strings.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="474">
+              <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="686. Repeated String Match.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/686. Repeated String Match.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -92,10 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/EasyLevel/198. House Robber.js" />
-        <option value="$PROJECT_DIR$/EasyLevel/88. Merge Sorted Array.js" />
-        <option value="$PROJECT_DIR$/EasyLevel/543. Diameter of Binary Tree.js" />
-        <option value="$PROJECT_DIR$/EasyLevel/572. Subtree of Another Tree.js" />
         <option value="$PROJECT_DIR$/EasyLevel/437. Path Sum III.js" />
         <option value="$PROJECT_DIR$/EasyLevel/35. Search Insert Position.js" />
         <option value="$PROJECT_DIR$/EasyLevel/160. Intersection of Two Linked Lists.js" />
@@ -143,6 +166,10 @@
         <option value="$PROJECT_DIR$/EasyLevel/434. Number of Segments in a String.js" />
         <option value="$PROJECT_DIR$/EasyLevel/58. Length of Last Word.js" />
         <option value="$PROJECT_DIR$/EasyLevel/443. String Compression.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/125. Valid Palindrome.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/408. Valid Word Abbreviation.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/859. Buddy Strings.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/686. Repeated String Match.js" />
       </list>
     </option>
   </component>
@@ -240,12 +267,12 @@
       <workItem from="1528820464759" duration="668000" />
       <workItem from="1529507458137" duration="4832000" />
       <workItem from="1530067935883" duration="807000" />
-      <workItem from="1530372207184" duration="2761000" />
+      <workItem from="1530372207184" duration="3900000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25754000" />
+    <option name="totallyTimeSpent" value="26893000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -277,34 +304,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/EasyLevel/198. House Robber.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EasyLevel/88. Merge Sorted Array.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EasyLevel/543. Diameter of Binary Tree.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EasyLevel/572. Subtree of Another Tree.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/EasyLevel/437. Path Sum III.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -559,13 +558,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EasyLevel/819. Most Common Word.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/EasyLevel/383. Ransom Note.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -640,6 +632,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/125. Valid Palindrome.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/819. Most Common Word.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/408. Valid Word Abbreviation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/859. Buddy Strings.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/686. Repeated String Match.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>

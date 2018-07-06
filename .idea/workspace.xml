@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91ec6aa3-33b1-4927-ac75-881f6a2a2e47" name="Default" comment="" />
+    <list default="true" id="91ec6aa3-33b1-4927-ac75-881f6a2a2e47" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/EasyLevel/404. Sum of Left Leaves.js" beforeDir="false" afterPath="$PROJECT_DIR$/EasyLevel/404. Sum of Left Leaves.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,24 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="408. Valid Word Abbreviation.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EasyLevel/408. Valid Word Abbreviation.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="859. Buddy Strings.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EasyLevel/859. Buddy Strings.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="686. Repeated String Match.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EasyLevel/686. Repeated String Match.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -95,14 +79,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="404. Sum of Left Leaves.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="404. Sum of Left Leaves.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EasyLevel/404. Sum of Left Leaves.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="455. Assign Cookies.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/455. Assign Cookies.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="409. Longest Palindrome.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/409. Longest Palindrome.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -122,9 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/EasyLevel/231. Power of Two.js" />
-        <option value="$PROJECT_DIR$/EasyLevel/345. Reverse Vowels of a String.js" />
-        <option value="$PROJECT_DIR$/EasyLevel/242. Valid Anagram.js" />
         <option value="$PROJECT_DIR$/EasyLevel/189. Rotate Array.js" />
         <option value="$PROJECT_DIR$/EasyLevel/119. Pascal's Triangle II.js" />
         <option value="$PROJECT_DIR$/EasyLevel/746. Min Cost Climbing Stairs.js" />
@@ -172,7 +164,10 @@
         <option value="$PROJECT_DIR$/EasyLevel/860. Lemonade Change.js" />
         <option value="$PROJECT_DIR$/EasyLevel/453. Minimum Moves to Equal Array Elements.js" />
         <option value="$PROJECT_DIR$/EasyLevel/598. Range Addition II.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/**  * @param {number[]} g  * @param {number[]} s  * @return {number}  */ var findContentChildren = function(g, s) {     g.sort((a, b) =&gt; a-b);     s.sort((a, b) =&gt; a-b);     var num = 0;     s.forEach(function (e) {         if (e &gt;= g[num]) {             num++;         }     });     return num; };.js" />
         <option value="$PROJECT_DIR$/EasyLevel/404. Sum of Left Leaves.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/455. Assign Cookies.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/409. Longest Palindrome.js" />
       </list>
     </option>
   </component>
@@ -270,12 +265,12 @@
       <workItem from="1528820464759" duration="668000" />
       <workItem from="1529507458137" duration="4832000" />
       <workItem from="1530067935883" duration="807000" />
-      <workItem from="1530372207184" duration="5022000" />
+      <workItem from="1530372207184" duration="5423000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28015000" />
+    <option name="totallyTimeSpent" value="28416000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -307,27 +302,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/EasyLevel/231. Power of Two.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EasyLevel/345. Reverse Vowels of a String.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EasyLevel/242. Valid Anagram.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/EasyLevel/189. Rotate Array.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -666,13 +640,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/**  * @param {number[]} g  * @param {number[]} s  * @return {number}  */ var findContentChildren = function(g, s) {     g.sort((a, b) =&gt; a-b);     s.sort((a, b) =&gt; a-b);     var num = 0;     s.forEach(function (e) {         if (e &gt;= g[num]) {             num++;         }     });     return num; };.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/EasyLevel/404. Sum of Left Leaves.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/455. Assign Cookies.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="225">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/409. Longest Palindrome.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
         </state>
       </provider>
     </entry>

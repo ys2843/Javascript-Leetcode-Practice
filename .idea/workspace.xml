@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91ec6aa3-33b1-4927-ac75-881f6a2a2e47" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/EasyLevel/447. Number of Boomerangs.js" beforeDir="false" afterPath="$PROJECT_DIR$/EasyLevel/447. Number of Boomerangs.js" afterDir="false" />
-    </list>
+    <list default="true" id="91ec6aa3-33b1-4927-ac75-881f6a2a2e47" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,24 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="681. Next Closest Time.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Medium/681. Next Closest Time.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="2" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="683. K Empty Slots.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hard/683. K Empty Slots.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Union-Find.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hard/Union-Find.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,11 +83,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="697. Degree of an Array.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="697. Degree of an Array.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EasyLevel/697. Degree of an Array.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
               <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="830. Positions of Large Groups.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/830. Positions of Large Groups.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="671. Second Minimum Node In a Binary Tree.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/671. Second Minimum Node In a Binary Tree.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -127,8 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/EasyLevel/203. Remove Linked List Elements.js" />
-        <option value="$PROJECT_DIR$/EasyLevel/687. Longest Univalue Path.js" />
         <option value="$PROJECT_DIR$/EasyLevel/107. Binary Tree Level Order Traversal II.js" />
         <option value="$PROJECT_DIR$/EasyLevel/111. Minimum Depth of Binary Tree.js" />
         <option value="$PROJECT_DIR$/EasyLevel/100. Same Tree.js" />
@@ -178,6 +177,8 @@
         <option value="$PROJECT_DIR$/EasyLevel/447. Number of Boomerangs.js" />
         <option value="$PROJECT_DIR$/EasyLevel/252. Meeting Rooms.js" />
         <option value="$PROJECT_DIR$/EasyLevel/697. Degree of an Array.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/830. Positions of Large Groups.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/671. Second Minimum Node In a Binary Tree.js" />
       </list>
     </option>
   </component>
@@ -281,12 +282,12 @@
       <workItem from="1528820464759" duration="668000" />
       <workItem from="1529507458137" duration="4832000" />
       <workItem from="1530067935883" duration="807000" />
-      <workItem from="1530372207184" duration="8090000" />
+      <workItem from="1530372207184" duration="8395000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31083000" />
+    <option name="totallyTimeSpent" value="31388000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -318,20 +319,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/EasyLevel/203. Remove Linked List Elements.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EasyLevel/687. Longest Univalue Path.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/EasyLevel/107. Binary Tree Level Order Traversal II.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -679,6 +666,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/830. Positions of Large Groups.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/671. Second Minimum Node In a Binary Tree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

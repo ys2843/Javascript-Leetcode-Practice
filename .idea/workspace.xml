@@ -14,15 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Union-Find.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hard/Union-Find.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="563. Binary Tree Tilt.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EasyLevel/563. Binary Tree Tilt.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -101,14 +92,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="671. Second Minimum Node In a Binary Tree.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="671. Second Minimum Node In a Binary Tree.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EasyLevel/671. Second Minimum Node In a Binary Tree.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+            <state relative-caret-position="187">
+              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="628. Maximum Product of Three Numbers.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/628. Maximum Product of Three Numbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -128,7 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/EasyLevel/107. Binary Tree Level Order Traversal II.js" />
         <option value="$PROJECT_DIR$/EasyLevel/111. Minimum Depth of Binary Tree.js" />
         <option value="$PROJECT_DIR$/EasyLevel/100. Same Tree.js" />
         <option value="$PROJECT_DIR$/EasyLevel/733. Flood Fill.js" />
@@ -179,6 +178,7 @@
         <option value="$PROJECT_DIR$/EasyLevel/697. Degree of an Array.js" />
         <option value="$PROJECT_DIR$/EasyLevel/830. Positions of Large Groups.js" />
         <option value="$PROJECT_DIR$/EasyLevel/671. Second Minimum Node In a Binary Tree.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/628. Maximum Product of Three Numbers.js" />
       </list>
     </option>
   </component>
@@ -282,12 +282,12 @@
       <workItem from="1528820464759" duration="668000" />
       <workItem from="1529507458137" duration="4832000" />
       <workItem from="1530067935883" duration="807000" />
-      <workItem from="1530372207184" duration="8395000" />
+      <workItem from="1530372207184" duration="8835000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31388000" />
+    <option name="totallyTimeSpent" value="31828000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -319,13 +319,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/EasyLevel/107. Binary Tree Level Order Traversal II.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/EasyLevel/111. Minimum Depth of Binary Tree.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -678,11 +671,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/EasyLevel/671. Second Minimum Node In a Binary Tree.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+        <state relative-caret-position="187">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/628. Maximum Product of Three Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
         </state>
       </provider>
     </entry>

@@ -23,11 +23,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="747. Largest Number At Least Twice of Others.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="747. Largest Number At Least Twice of Others.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EasyLevel/747. Largest Number At Least Twice of Others.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
               <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="844. Backspace String Compare.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/844. Backspace String Compare.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="532. K-diff Pairs in an Array.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/532. K-diff Pairs in an Array.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="441. Arranging Coins.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EasyLevel/441. Arranging Coins.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -47,9 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/EasyLevel/170. Two Sum III - Data structure design.js" />
-        <option value="$PROJECT_DIR$/EasyLevel/653. Two Sum IV - Input is a BST.js" />
-        <option value="$PROJECT_DIR$/EasyLevel/606. Construct String from Binary Tree.js" />
         <option value="$PROJECT_DIR$/EasyLevel/520. Detect Capital.js" />
         <option value="$PROJECT_DIR$/EasyLevel/657. Judge Route Circle.js" />
         <option value="$PROJECT_DIR$/EasyLevel/819. Most Common Word.js" />
@@ -98,6 +122,9 @@
         <option value="$PROJECT_DIR$/EasyLevel/674. Longest Continuous Increasing Subsequence.js" />
         <option value="$PROJECT_DIR$/EasyLevel/27. Remove Element.js" />
         <option value="$PROJECT_DIR$/EasyLevel/747. Largest Number At Least Twice of Others.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/844. Backspace String Compare.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/532. K-diff Pairs in an Array.js" />
+        <option value="$PROJECT_DIR$/EasyLevel/441. Arranging Coins.js" />
       </list>
     </option>
   </component>
@@ -201,12 +228,12 @@
       <workItem from="1528820464759" duration="668000" />
       <workItem from="1529507458137" duration="4832000" />
       <workItem from="1530067935883" duration="807000" />
-      <workItem from="1530372207184" duration="9663000" />
+      <workItem from="1530372207184" duration="10560000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32656000" />
+    <option name="totallyTimeSpent" value="33553000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -238,30 +265,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/EasyLevel/225. Implement Stack using Queues.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="3" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EasyLevel/170. Two Sum III - Data structure design.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EasyLevel/653. Two Sum IV - Input is a BST.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/EasyLevel/606. Construct String from Binary Tree.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -596,6 +599,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/844. Backspace String Compare.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/532. K-diff Pairs in an Array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyLevel/441. Arranging Coins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
